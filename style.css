@@ -2,3 +2,17 @@ p{
     background-color: orange;
     color: white;
 }
+.hero{
+
+width: 100%;
+height: 100vh;
+background-image: linear-gradient(rgba(250, 162, 9, 0.3),rgba(250, 162, 9, 0.3))
+Position: relative;
+padding: 0 5%;
+
+
+
+}
+
+
+
